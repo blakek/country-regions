@@ -1,0 +1,20 @@
+{
+  "name": "country-regions",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/blakek/country-regions.git",
+  "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
+  "license": "MIT",
+  "eslintConfig": {
+    "extends": "better-standard"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "eslint": "^4.0.0",
+    "eslint-config-better-standard": "^0.0.1"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && ava"
+  }
+}
