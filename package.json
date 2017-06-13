@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/blakek/country-regions.git",
-  "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
+  "author": "Blake Knight <oss.ideas@gmail.com> (http://blakek.me/)",
   "license": "MIT",
   "eslintConfig": {
     "extends": "better-standard"
