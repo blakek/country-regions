@@ -9,7 +9,7 @@
     "extends": "better-standard"
   },
   "devDependencies": {
-    "ava": "^1.0.1",
+    "ava": "^1.3.0",
     "eslint": "^5.0.0",
     "eslint-config-better-standard": "^0.0.1"
   },
